@@ -7,3 +7,43 @@
 2024-06-02 19:19:15,489 :INFO :test_e2e :Clicking on checkout Button to go the ConfirmPage
 2024-06-02 19:19:16,106 :INFO :test_e2e :Sending the Country as Ind
 2024-06-02 19:19:16,683 :INFO :test_e2e :Veryfying the link presence
+2024-06-03 00:10:36,461 :INFO :test_formSubmission :Information statement
+2024-06-03 00:10:36,487 :WARNING :test_formSubmission :Something is in warning mode
+2024-06-03 00:10:36,487 :ERROR :test_formSubmission :A Major error has happened
+2024-06-03 00:10:36,487 :CRITICAL :test_formSubmission :Critical
+2024-06-03 00:10:36,488 :INFO :test_formSubmission :Passing name
+2024-06-03 00:10:36,819 :INFO :test_formSubmission :Passing Email
+2024-06-03 00:10:37,162 :INFO :test_formSubmission :Passing Password
+2024-06-03 00:10:37,488 :INFO :test_formSubmission :Clicking Checbox
+2024-06-03 00:10:37,690 :INFO :test_formSubmission :Selecting Gender
+2024-06-03 00:10:37,937 :INFO :test_formSubmission :Selecting Employee status
+2024-06-03 00:10:38,133 :INFO :test_formSubmission :Submitting the Form
+2024-06-03 00:10:38,620 :INFO :test_formSubmission :Checking the Success message
+2024-06-03 00:10:38,621 :INFO :test_formSubmission :Refreshing the Webpage for passing new data 
+2024-06-03 00:10:52,531 :INFO :test_e2e :Information statement
+2024-06-03 00:10:52,532 :WARNING :test_e2e :Something is in warning mode
+2024-06-03 00:10:52,546 :ERROR :test_e2e :A Major error has happened
+2024-06-03 00:10:52,546 :CRITICAL :test_e2e :Critical
+2024-06-03 00:10:52,546 :INFO :test_e2e :Clicking on Shop
+2024-06-03 00:10:55,097 :INFO :test_e2e :Adding Products to cart
+2024-06-03 00:11:52,814 :INFO :test_e2e :Information statement
+2024-06-03 00:11:52,814 :WARNING :test_e2e :Something is in warning mode
+2024-06-03 00:11:52,815 :ERROR :test_e2e :A Major error has happened
+2024-06-03 00:11:52,815 :CRITICAL :test_e2e :Critical
+2024-06-03 00:11:52,815 :INFO :test_e2e :Clicking on Shop
+2024-06-03 00:11:55,806 :INFO :test_e2e :Adding Products to cart
+2024-06-03 00:12:41,061 :INFO :test_e2e :Information statement
+2024-06-03 00:12:41,062 :WARNING :test_e2e :Something is in warning mode
+2024-06-03 00:12:41,062 :ERROR :test_e2e :A Major error has happened
+2024-06-03 00:12:41,063 :CRITICAL :test_e2e :Critical
+2024-06-03 00:12:41,063 :INFO :test_e2e :Clicking on Shop
+2024-06-03 00:12:42,597 :INFO :test_e2e :Adding Products to cart
+2024-06-03 00:15:00,842 :INFO :test_e2e :Information statement
+2024-06-03 00:15:00,843 :WARNING :test_e2e :Something is in warning mode
+2024-06-03 00:15:00,843 :ERROR :test_e2e :A Major error has happened
+2024-06-03 00:15:00,844 :CRITICAL :test_e2e :Critical
+2024-06-03 00:15:00,844 :INFO :test_e2e :Clicking on Shop
+2024-06-03 00:15:02,176 :INFO :test_e2e :Adding Products to cart
+2024-06-03 00:15:02,998 :INFO :test_e2e :Clicking on checkout Button to go the ConfirmPage
+2024-06-03 00:15:03,491 :INFO :test_e2e :Sending the Country as Ind
+2024-06-03 00:15:04,068 :INFO :test_e2e :Veryfying the link presence

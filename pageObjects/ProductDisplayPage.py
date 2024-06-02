@@ -14,12 +14,12 @@ class ProductDisplayPage:
 
     # Action Methods
     def AddingProducts(self):
-        products = self.driver_obj.find_elements(ProductDisplayPage.products_xpath)
+        products = self.driver_obj.find_elements(*ProductDisplayPage.products_xpath)
         for product in products:
-            product_title = product.find_element(ProductDisplayPage.title_xpath)
+            product_title = product.find_element(*ProductDisplayPage.title_xpath)
             if product_title.text == "Blackberry":
-                product.find_element(ProductDisplayPage.prod_add_btn_xpath).click()
+                product.find_element(*ProductDisplayPage.prod_add_btn_xpath).click()
     def clickCheckout(self):
-        self.driver_obj.find_element(ProductDisplayPage.btn_checkout_css).click()
+        self.driver_obj.find_element(*ProductDisplayPage.btn_checkout_css).click()
         CP_obj = ConfirmPage(self.driver_obj)
         return CP_obj
