@@ -1,0 +1,9 @@
+2024-06-02 19:19:13,806 :INFO :test_e2e :Information statement
+2024-06-02 19:19:13,807 :WARNING :test_e2e :Something is in warning mode
+2024-06-02 19:19:13,807 :ERROR :test_e2e :A Major error has happened
+2024-06-02 19:19:13,808 :CRITICAL :test_e2e :Critical
+2024-06-02 19:19:13,808 :INFO :test_e2e :Clicking on Shop
+2024-06-02 19:19:14,984 :INFO :test_e2e :Adding Products to cart
+2024-06-02 19:19:15,489 :INFO :test_e2e :Clicking on checkout Button to go the ConfirmPage
+2024-06-02 19:19:16,106 :INFO :test_e2e :Sending the Country as Ind
+2024-06-02 19:19:16,683 :INFO :test_e2e :Veryfying the link presence
